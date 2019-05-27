@@ -2,8 +2,7 @@
 
 # kaggle-humpback-submission
 
-Code for Kaggle Humpback Whale Identification Challange. The resulting model got an accuracy of 0.44047, top 11% in this competition.
-
+Code for Kaggle Humpback Whale Identification Challange. 
 
 ## Prerequisites
 
